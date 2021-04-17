@@ -109,7 +109,7 @@
             </action> </item>
 
             <item label="restart"> <action name="Execute">
-                <execute>shutdow now -r</execute>
+                <execute>shutdown now -r</execute>
             </action> </item>
 
     </menu>

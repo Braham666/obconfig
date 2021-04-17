@@ -1,3 +1,15 @@
 tint2 &
+
 nitrogen --restore &
 
+(volumeicon) &
+
+xset b off &
+
+(nm-applet) &
+
+(plank) &
+
+xset b off &
+
+picom &
